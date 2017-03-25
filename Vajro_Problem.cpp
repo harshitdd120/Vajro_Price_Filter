@@ -3,7 +3,7 @@ using namespace std;
 #define pb push_back
 #define mp make_pair
 #define lli long long int
-pair<lli,lli> p[1000005];       //CAN HANDLE 1000004 rows of data .
+pair<lli,lli> p[1000005];       //CAN HANDLE 1000005 rows of data .
 int main()
 {
     cout<<"PLEASE ENTER THE NUMBER OF ROWS OF DATA : ";
